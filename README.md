@@ -1,6 +1,7 @@
 # Game-Tree
 
 Implementation of "Tic-Tac-Toe" game tree, made in C, using multi way trees.
+Minimax and Alpha Beta Pruning AI algorithms were used in creating the game tree.
 
 Compiling:  
 - use Makefile  
